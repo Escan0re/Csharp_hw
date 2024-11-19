@@ -1,0 +1,14 @@
+C:\Study\repo1\CSharp_course\CSharp_course\bin\Debug\net9.0\CSharp_course.exe
+C:\Study\repo1\CSharp_course\CSharp_course\bin\Debug\net9.0\CSharp_course.deps.json
+C:\Study\repo1\CSharp_course\CSharp_course\bin\Debug\net9.0\CSharp_course.runtimeconfig.json
+C:\Study\repo1\CSharp_course\CSharp_course\bin\Debug\net9.0\CSharp_course.dll
+C:\Study\repo1\CSharp_course\CSharp_course\bin\Debug\net9.0\CSharp_course.pdb
+C:\Study\repo1\CSharp_course\CSharp_course\obj\Debug\net9.0\CSharp_course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\repo1\CSharp_course\CSharp_course\obj\Debug\net9.0\CSharp_course.AssemblyInfoInputs.cache
+C:\Study\repo1\CSharp_course\CSharp_course\obj\Debug\net9.0\CSharp_course.AssemblyInfo.cs
+C:\Study\repo1\CSharp_course\CSharp_course\obj\Debug\net9.0\CSharp_course.csproj.CoreCompileInputs.cache
+C:\Study\repo1\CSharp_course\CSharp_course\obj\Debug\net9.0\CSharp_course.dll
+C:\Study\repo1\CSharp_course\CSharp_course\obj\Debug\net9.0\refint\CSharp_course.dll
+C:\Study\repo1\CSharp_course\CSharp_course\obj\Debug\net9.0\CSharp_course.pdb
+C:\Study\repo1\CSharp_course\CSharp_course\obj\Debug\net9.0\CSharp_course.genruntimeconfig.cache
+C:\Study\repo1\CSharp_course\CSharp_course\obj\Debug\net9.0\ref\CSharp_course.dll
