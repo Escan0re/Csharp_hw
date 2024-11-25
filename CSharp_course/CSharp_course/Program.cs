@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello!");
+Console.WriteLine("Hello world!");
+Console.WriteLine("Goodbye!");
+
