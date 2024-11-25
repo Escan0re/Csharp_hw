@@ -7,7 +7,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="899a1ed1-9348-4959-ae9d-1349d39fb0a9" name="Changes" comment="" />
+    <list default="true" id="899a1ed1-9348-4959-ae9d-1349d39fb0a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/ref/CSharp_course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/ref/CSharp_course.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/refint/CSharp_course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/refint/CSharp_course.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +45,7 @@
   &quot;keyToString&quot;: {
     &quot;.NET Project.CSharp_course.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -70,6 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1732049212810</updated>
       <workItem from="1732049214298" duration="871000" />
+      <workItem from="1732205687099" duration="657000" />
+      <workItem from="1732211204041" duration="23000" />
     </task>
     <servers />
   </component>
