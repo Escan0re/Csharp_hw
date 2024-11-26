@@ -9,14 +9,15 @@
   <component name="ChangeListManager">
     <list default="true" id="899a1ed1-9348-4959-ae9d-1349d39fb0a9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/ref/CSharp_course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/ref/CSharp_course.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/refint/CSharp_course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/refint/CSharp_course.dll" afterDir="false" />
@@ -32,6 +33,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -43,7 +48,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;.NET Project.CSharp_course.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.CSharp_course.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -86,6 +91,8 @@
       <workItem from="1732049214298" duration="871000" />
       <workItem from="1732205687099" duration="657000" />
       <workItem from="1732211204041" duration="23000" />
+      <workItem from="1732558327183" duration="300000" />
+      <workItem from="1732638403331" duration="1357000" />
     </task>
     <servers />
   </component>
