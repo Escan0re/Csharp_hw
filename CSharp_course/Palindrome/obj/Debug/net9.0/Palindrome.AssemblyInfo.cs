@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CSharp_course")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Palindrome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+214af6dd818c5700febf83d02ea13303be61ee58")]
-[assembly: System.Reflection.AssemblyProductAttribute("CSharp_course")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CSharp_course")]
+[assembly: System.Reflection.AssemblyProductAttribute("Palindrome")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Palindrome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -1,0 +1,15 @@
+D:\Study\Csharp_hw\CSharp_course\Palindrome\bin\Debug\net9.0\Palindrome.exe
+D:\Study\Csharp_hw\CSharp_course\Palindrome\bin\Debug\net9.0\Palindrome.deps.json
+D:\Study\Csharp_hw\CSharp_course\Palindrome\bin\Debug\net9.0\Palindrome.runtimeconfig.json
+D:\Study\Csharp_hw\CSharp_course\Palindrome\bin\Debug\net9.0\Palindrome.dll
+D:\Study\Csharp_hw\CSharp_course\Palindrome\bin\Debug\net9.0\Palindrome.pdb
+D:\Study\Csharp_hw\CSharp_course\Palindrome\obj\Debug\net9.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Csharp_hw\CSharp_course\Palindrome\obj\Debug\net9.0\Palindrome.AssemblyInfoInputs.cache
+D:\Study\Csharp_hw\CSharp_course\Palindrome\obj\Debug\net9.0\Palindrome.AssemblyInfo.cs
+D:\Study\Csharp_hw\CSharp_course\Palindrome\obj\Debug\net9.0\Palindrome.csproj.CoreCompileInputs.cache
+D:\Study\Csharp_hw\CSharp_course\Palindrome\obj\Debug\net9.0\Palindrome.sourcelink.json
+D:\Study\Csharp_hw\CSharp_course\Palindrome\obj\Debug\net9.0\Palindrome.dll
+D:\Study\Csharp_hw\CSharp_course\Palindrome\obj\Debug\net9.0\refint\Palindrome.dll
+D:\Study\Csharp_hw\CSharp_course\Palindrome\obj\Debug\net9.0\Palindrome.pdb
+D:\Study\Csharp_hw\CSharp_course\Palindrome\obj\Debug\net9.0\Palindrome.genruntimeconfig.cache
+D:\Study\Csharp_hw\CSharp_course\Palindrome\obj\Debug\net9.0\ref\Palindrome.dll
