@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Study\\repo1\\CSharp_course\\CSharp_course\\CSharp_course.csproj",
+      "projectUniqueName": "D:\\Study\\Csharp_hw\\CSharp_course\\CSharp_course\\CSharp_course.csproj",
       "projectName": "CSharp_course",
-      "projectPath": "C:\\Study\\repo1\\CSharp_course\\CSharp_course\\CSharp_course.csproj",
+      "projectPath": "D:\\Study\\Csharp_hw\\CSharp_course\\CSharp_course\\CSharp_course.csproj",
       "packagesPath": "C:\\Users\\h4rdc\\.nuget\\packages\\",
-      "outputPath": "C:\\Study\\repo1\\CSharp_course\\CSharp_course\\obj\\",
+      "outputPath": "D:\\Study\\Csharp_hw\\CSharp_course\\CSharp_course\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\h4rdc\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

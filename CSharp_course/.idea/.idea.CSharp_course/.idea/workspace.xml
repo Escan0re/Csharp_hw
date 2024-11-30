@@ -8,19 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="899a1ed1-9348-4959-ae9d-1349d39fb0a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/bin/Debug/net9.0/CSharp_course.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/ref/CSharp_course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/ref/CSharp_course.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/refint/CSharp_course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/refint/CSharp_course.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +26,9 @@
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -51,6 +43,7 @@
     &quot;.NET Project.CSharp_course.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;do_not_show_solution_notification&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -93,6 +86,8 @@
       <workItem from="1732211204041" duration="23000" />
       <workItem from="1732558327183" duration="300000" />
       <workItem from="1732638403331" duration="1357000" />
+      <workItem from="1732987356574" duration="15000" />
+      <workItem from="1732987559048" duration="43000" />
     </task>
     <servers />
   </component>
