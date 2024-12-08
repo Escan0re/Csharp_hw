@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\Csharp_hw\\CSharp_course\\Palindrome\\Palindrome.csproj",
+      "projectUniqueName": "C:\\Study\\repo1\\CSharp_course\\Palindrome\\Palindrome.csproj",
       "projectName": "Palindrome",
-      "projectPath": "D:\\Study\\Csharp_hw\\CSharp_course\\Palindrome\\Palindrome.csproj",
+      "projectPath": "C:\\Study\\repo1\\CSharp_course\\Palindrome\\Palindrome.csproj",
       "packagesPath": "C:\\Users\\h4rdc\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\Csharp_hw\\CSharp_course\\Palindrome\\obj\\",
+      "outputPath": "C:\\Study\\repo1\\CSharp_course\\Palindrome\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\h4rdc\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

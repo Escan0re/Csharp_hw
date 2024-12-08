@@ -10,11 +10,25 @@
   <component name="ChangeListManager">
     <list default="true" id="899a1ed1-9348-4959-ae9d-1349d39fb0a9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/CSharp_course.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/CSharp_course.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome/obj/Debug/net9.0/Palindrome.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome/obj/Debug/net9.0/Palindrome.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome/obj/Debug/net9.0/Palindrome.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome/obj/Debug/net9.0/Palindrome.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome/obj/Debug/net9.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome/obj/Debug/net9.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome/obj/Debug/net9.0/Palindrome.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome/obj/Debug/net9.0/Palindrome.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome/obj/Palindrome.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome/obj/Palindrome.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +42,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Palindrome/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Palindrome/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="Toolset" />
