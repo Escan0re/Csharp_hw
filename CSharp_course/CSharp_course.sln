@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_course", "CSharp_cou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffeemachine", "Coffeemachine\Coffeemachine.csproj", "{8A4DF132-97E4-4BF4-A12A-D92D5A5F9282}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffemachine_v2", "Coffemachine_v2\Coffemachine_v2.csproj", "{DDFD272D-AE12-4B96-8EDF-6C0B2CBA9522}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{8A4DF132-97E4-4BF4-A12A-D92D5A5F9282}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A4DF132-97E4-4BF4-A12A-D92D5A5F9282}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A4DF132-97E4-4BF4-A12A-D92D5A5F9282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFD272D-AE12-4B96-8EDF-6C0B2CBA9522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFD272D-AE12-4B96-8EDF-6C0B2CBA9522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFD272D-AE12-4B96-8EDF-6C0B2CBA9522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFD272D-AE12-4B96-8EDF-6C0B2CBA9522}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
