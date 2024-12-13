@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="899a1ed1-9348-4959-ae9d-1349d39fb0a9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/rider.project.model.nuget.info" afterDir="false" />
@@ -28,6 +29,8 @@
       <change beforePath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/ref/Coffeemachine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/ref/Coffeemachine.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/refint/Coffeemachine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/refint/Coffeemachine.dll" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +61,19 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+<<<<<<< Updated upstream
     &quot;.NET Project.CSharp_course.executor&quot;: &quot;Debug&quot;,
     &quot;.NET Project.Coffeemachine.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;do_not_show_solution_notification&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;coffeemachine&quot;,
+=======
+    &quot;.NET Project.CSharp_course.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Rock__paper__scissors&quot;,
+>>>>>>> Stashed changes
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,7 +82,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected=".NET Project.Coffeemachine">
+=======
+  <component name="RunManager">
+>>>>>>> Stashed changes
     <configuration name="CSharp_course" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -123,10 +137,14 @@
       <workItem from="1732211204041" duration="23000" />
       <workItem from="1732558327183" duration="300000" />
       <workItem from="1732638403331" duration="1357000" />
+<<<<<<< Updated upstream
       <workItem from="1732987356574" duration="15000" />
       <workItem from="1732987559048" duration="43000" />
       <workItem from="1733934349518" duration="1461000" />
       <workItem from="1734067066639" duration="343000" />
+=======
+      <workItem from="1732648631091" duration="2180000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
