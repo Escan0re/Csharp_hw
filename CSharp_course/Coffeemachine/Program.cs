@@ -1,38 +1,39 @@
-﻿using MakeCoffee;
+﻿using Coffee;
 
 CoffeeMachine coffeeMachine = new CoffeeMachine();
 
 while (true)
 {
-    Console.WriteLine("Какой кофе пригтовить: 1. Американо 2. Капучино 3. Латте 4. Макиато 5. Мокко");
-    if (int.TryParse(Console.ReadLine(), out int coffeeNumber))
+    Console.WriteLine("Какой кофе приготовить: 1. Американо 2. Капучино 3. Латте 4. Макиато 5. Мокко");
+
+    if (int.TryParse(Console.ReadLine(), out int userInput) && Enum.IsDefined(typeof(CoffeeType), userInput))
     {
-        switch (coffeeNumber)
+        CoffeeType coffeeType = (CoffeeType)userInput;
+
+        switch (coffeeType)
         {
-            case 1:
+            case CoffeeType.Americano:
                 coffeeMachine.MakeAmericano();
                 break;
-            case 2:
+            case CoffeeType.Cappuccino:
                 coffeeMachine.MakeCappuccino();
                 break;
-            case 3:
+            case CoffeeType.Latte:
                 coffeeMachine.MakeLatte();
                 break;
-            case 4:
+            case CoffeeType.Macchiato:
                 coffeeMachine.MakeMacchiato();
                 break;
-            case 5:
+            case CoffeeType.Mocha:
                 coffeeMachine.MakeMocha();
                 break;
-            default:
-                Console.WriteLine("Ошибка! Неверный выбор.");
-                continue;
         }
 
+        Console.WriteLine("Кофе приготовлен!");
         break;
     }
 
     {
-        Console.WriteLine("Ошибка! Введите число.");
+        Console.WriteLine("Ошибка! Введите число от 1 до 5.");
     }
 }

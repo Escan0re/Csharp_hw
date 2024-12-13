@@ -10,12 +10,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="899a1ed1-9348-4959-ae9d-1349d39fb0a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Coffeemachine/MakeCoffee.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp_course/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/Debug/net9.0/CSharp_course.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp_course/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_course/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/MakeCoffee.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/CoffeeMachine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/bin/Debug/net9.0/Coffeemachine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/bin/Debug/net9.0/Coffeemachine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/bin/Debug/net9.0/Coffeemachine.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/bin/Debug/net9.0/Coffeemachine.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/bin/Debug/net9.0/Coffeemachine.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/bin/Debug/net9.0/Coffeemachine.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/Coffeemachine.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/Coffeemachine.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/Coffeemachine.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/Coffeemachine.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/Coffeemachine.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/Coffeemachine.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/Coffeemachine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/Coffeemachine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/Coffeemachine.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/Coffeemachine.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/Coffeemachine.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/Coffeemachine.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/ref/Coffeemachine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/ref/Coffeemachine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/refint/Coffeemachine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeemachine/obj/Debug/net9.0/refint/Coffeemachine.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,22 +56,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.CSharp_course.executor": "Debug",
-    ".NET Project.Coffeemachine.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "do_not_show_solution_notification": "true",
-    "git-widget-placeholder": "coffeemachine",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.CSharp_course.executor&quot;: &quot;Debug&quot;,
+    &quot;.NET Project.Coffeemachine.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;do_not_show_solution_notification&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;coffeemachine&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.Coffeemachine">
     <configuration name="CSharp_course" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -113,6 +125,8 @@
       <workItem from="1732638403331" duration="1357000" />
       <workItem from="1732987356574" duration="15000" />
       <workItem from="1732987559048" duration="43000" />
+      <workItem from="1733934349518" duration="1461000" />
+      <workItem from="1734067066639" duration="343000" />
     </task>
     <servers />
   </component>

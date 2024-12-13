@@ -1,4 +1,4 @@
-﻿namespace MakeCoffee;
+﻿namespace Coffee;
 
 public class CoffeeMachine
 {
