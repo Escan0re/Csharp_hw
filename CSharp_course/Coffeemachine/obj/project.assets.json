@@ -13,13 +13,12 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Study\\repo1\\CSharp_course\\Coffeemachine\\Coffeemachine.csproj",
+      "projectUniqueName": "D:\\Study\\Csharp_hw\\CSharp_course\\Coffeemachine\\Coffeemachine.csproj",
       "projectName": "Coffeemachine",
-      "projectPath": "C:\\Study\\repo1\\CSharp_course\\Coffeemachine\\Coffeemachine.csproj",
+      "projectPath": "D:\\Study\\Csharp_hw\\CSharp_course\\Coffeemachine\\Coffeemachine.csproj",
       "packagesPath": "C:\\Users\\h4rdc\\.nuget\\packages\\",
-      "outputPath": "C:\\Study\\repo1\\CSharp_course\\Coffeemachine\\obj\\",
+      "outputPath": "D:\\Study\\Csharp_hw\\CSharp_course\\Coffeemachine\\obj\\",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "C:\\Users\\h4rdc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
@@ -43,8 +42,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
-      }
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\h4rdc\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
