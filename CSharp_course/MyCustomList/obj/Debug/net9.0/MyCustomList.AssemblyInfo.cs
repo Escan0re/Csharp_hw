@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CSharp_course")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MyCustomList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+285c3a9a20208b71722e0d9d34749db02458df10")]
-[assembly: System.Reflection.AssemblyProductAttribute("CSharp_course")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CSharp_course")]
+[assembly: System.Reflection.AssemblyProductAttribute("MyCustomList")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MyCustomList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
