@@ -1,0 +1,15 @@
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\obj\Debug\net9.0\MyCustomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\obj\Debug\net9.0\MyCustomList.AssemblyInfoInputs.cache
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\obj\Debug\net9.0\MyCustomList.AssemblyInfo.cs
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\obj\Debug\net9.0\MyCustomList.csproj.CoreCompileInputs.cache
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\obj\Debug\net9.0\MyCustomList.sourcelink.json
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\bin\Debug\net9.0\MyCustomList.exe
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\bin\Debug\net9.0\MyCustomList.deps.json
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\bin\Debug\net9.0\MyCustomList.runtimeconfig.json
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\bin\Debug\net9.0\MyCustomList.dll
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\bin\Debug\net9.0\MyCustomList.pdb
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\obj\Debug\net9.0\MyCustomList.dll
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\obj\Debug\net9.0\refint\MyCustomList.dll
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\obj\Debug\net9.0\MyCustomList.pdb
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\obj\Debug\net9.0\MyCustomList.genruntimeconfig.cache
+D:\Study\Csharp_hw\CSharp_course\MyCustomList\obj\Debug\net9.0\ref\MyCustomList.dll
