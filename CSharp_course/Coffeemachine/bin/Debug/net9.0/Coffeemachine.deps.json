@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Coffeemachine/1.0.0": {
+        "runtime": {
+          "Coffeemachine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coffeemachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
