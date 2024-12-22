@@ -7,6 +7,7 @@ encodings.xml
 indexLayout.xml
 projectSettingsUpdater.xml
 vcs.xml
+**/.idea
 **/.idea/shelf/*
 **/.idea/dictionaries
 **/.idea/httpRequests/
