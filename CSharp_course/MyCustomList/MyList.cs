@@ -74,7 +74,7 @@ public class MyList
     {
         if (index < 0 || index > Count)
         {
-            throw new ArgumentOutOfRangeException(nameof(index), "Index is out of range.");
+            throw new ArgumentOutOfRangeException(nameof(index), "Индекс выходит за пределы допустимого диапазона.");
         }
 
         if (Count >= Capacity)
