@@ -1,5 +1,4 @@
 ﻿//Задание 1
-
 void PrintMessage(string message)
 {
     Console.WriteLine(message);
@@ -32,7 +31,6 @@ int[] array = { 1, 2, 3 };
 action(array);
 
 //Задание 4
-
 int Factorial(int n)
 {
     return n > 1 ? n * Factorial(n - 1) : 1;
