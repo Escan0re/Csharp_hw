@@ -1,6 +1,1 @@
-﻿namespace MyList;
-
-public class Program
-{
-    
-}
+﻿Console.WriteLine();
