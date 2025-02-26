@@ -1,0 +1,1 @@
+﻿// смотри OCP.cs, SRP.cs и LSP.cs
